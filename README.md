@@ -1,4 +1,6 @@
-![GIF](https://github.com/richard-linux-07/richard-linux-07/blob/main/6cwH.gif)
+<p align="center">
+  <img src="https://github.com/richard-linux-07/richard-linux-07/blob/main/6cwH.gif" alt="gif">
+</p>
 <p align="center">
   <b>I ❤️ CODING</b><br>
  
