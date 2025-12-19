@@ -2,7 +2,7 @@
   <img src="https://github.com/richard-linux-07/richard-linux-07/blob/main/6cwH.gif" alt="gif">
 </p>
 <p align="center">
-  <b>**_Wishing you a festive season wrapped in cheer and filled with beautiful memories_**.</b><br>
+  <b>Wishing you a festive season wrapped in cheer and filled with beautiful memories.</b><br>
  
 ---
 
